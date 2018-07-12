@@ -1,0 +1,27 @@
+body{
+  background-color: lightblue;  
+}
+<style type="text/css">
+h1{
+color:blue; 
+font-size: 40px;
+text-decoration: underline;
+}
+.small{
+font-size: 30px;
+}	
+h2{
+color:purple; 
+font-size: 40px;
+text-decoration: underline;
+}
+#first{
+font-size: 150px;
+}
+span{
+font-style: italic;
+}
+h2 span{
+text-decoration: line-through;
+}
+</style>
